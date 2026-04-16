@@ -1,20 +1,11 @@
- <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text="Wooju's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Wooju's GitHub">
-    </div>
+# 👋 Hi, I'm Wooju
 
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-<!--
-**wooju01/wooju01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+          </div>
+    </div><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wooju01&theme=dark&show_icons=true)
