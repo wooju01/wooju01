@@ -1,4 +1,8 @@
-## Hi there 👋
+ <div class="header">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="YeonJin's GitHub">
+    </div>
+
+
 
 <!--
 **wooju01/wooju01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
