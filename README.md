@@ -8,4 +8,4 @@
           </div>
     </div><br>
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wooju01&theme=dark&show_icons=true)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wooju01&theme=radical)
